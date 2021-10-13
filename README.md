@@ -7,7 +7,7 @@
 - 📫 How to reach me Mail -  naeemabargir9@gmail.com
 
 
-<h2>My Git stats</h2>
+<h2>My Git stars</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Naeema21&&show_icons=true&count_private=true&theme=radical"/>
 <!---
 Naeema21/Naeema21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
