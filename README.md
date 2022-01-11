@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Naeema Bargir
 - 👀 I’m interested in MERN / Web Development
-- 🌱 I’m currently working On - React /  PHP 
+- 🌱 I’m currently working On - React /  PHP / Node / Express
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me Mail -  naeemabargir9@gmail.com
 
