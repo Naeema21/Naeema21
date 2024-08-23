@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Naeema21&color=blue&label=Profile-Views)
 
-- 👋 Hi, I’m Naeema Bargir
+- 👋 Hi, I’m Naeema Mulani
 - 👀 I’m interested in MERN / Web Development
 - 🌱 I’m currently working On - React /  Next
 - 💞️ I’m looking to collaborate on ..
